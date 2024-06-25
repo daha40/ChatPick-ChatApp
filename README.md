@@ -42,4 +42,4 @@ To run the ChatPick-ChatApp locally on your machine, follow these steps:
 
 ![Screenshot_1719308945](https://github.com/daha40/ChatPick-ChatApp/assets/64675525/396d72dc-cf54-4c8f-94ca-52a5f102a2b5)
 
-![Screenshot_1719308953](https://github.com/daha40/ChatPick-ChatApp/assets/64675525/optimized-image-url)
+
